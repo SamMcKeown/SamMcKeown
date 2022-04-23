@@ -18,23 +18,3 @@ As a self-taught data scientist with no technical background, I would be really 
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![looker](https://img.shields.io/badge/Looker-4285F4.svg?&style=for-the-badge&logo=Looker&logoColor=white)
-
-
-### Connect with me:
-
-[<img align="left" alt="SamMcKeown | LinkedIn" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
-
-<br />
-
-<br>
-<br>
-<br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/89918910/141961582-61be6ffd-699f-444f-a9b9-8dcbc3d881f8.jpeg"/>
-</p>
-
-
-</details>
-
-[linkedin]: https://linkedin.com/in/sampmckeown
