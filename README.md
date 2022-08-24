@@ -3,11 +3,6 @@
 
 Hey there! I'm Sam.
 
-I was always fascinated with artificial intelligence, so during a global pandemic I decided to investigate the world of data science. 
-
-Put simply, I love learning. I realised that python & machine learning just clicked for me & I soon found myself analysing most of my curiousities with code.
-
-As a self-taught data scientist with no technical background, I would be really happy to share my experience with anyone looking to embark on a similar data science journey.
 
 ### Languages & Tools:
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=for-the-badge)
