@@ -11,6 +11,7 @@ Hey there! I'm Sam.
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=for-the-badge)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![jira](https://img.shields.io/badge/Jira-7626f3.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![looker](https://img.shields.io/badge/Looker-4285F4.svg?&style=for-the-badge&logo=Looker&logoColor=white)
 ![tableau](https://img.shields.io/badge/Tableau-2b4172.svg?&style=for-the-badge&logo=Tableau&logoColor=white)
