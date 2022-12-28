@@ -3,8 +3,6 @@
 
 Hey there! I'm Sam.
 
-sampmckeown@gmail.com
-
 
 ### Languages & Tools:
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=for-the-badge)
